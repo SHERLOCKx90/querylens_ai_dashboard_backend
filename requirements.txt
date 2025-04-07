@@ -11,3 +11,4 @@ torch==2.0.1
 faiss-cpu
 python-dotenv
 click
+huggingface_hub==0.16.4   
