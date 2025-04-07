@@ -5,6 +5,9 @@ scikit-learn
 matplotlib
 openai
 python-multipart
-sentence-transformers
+sentence-transformers==2.2.2
+transformers==4.30.2
+torch==2.0.1
 faiss-cpu
 python-dotenv
+click
